@@ -1,0 +1,27 @@
+body
+{
+  background-color: #F6F5F5;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  border-color: #D3D3D3;
+  width: 5%
+
+}
+nav
+{
+  align-items: center;
+  text-align: center;
+}
+
+h1
+{
+  color: #276678;
+}
+
+h3
+{
+  color: #1687A7;
+}
