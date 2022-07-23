@@ -3,5 +3,15 @@ body
   background-color: #F7FBFC;
 }
 hr{
-  border: white solid 1px;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  border-color: #D3D3D3;
+  width: 5%
+
+}
+nav
+{
+  align-items: center;
+  text-align: center;
 }
