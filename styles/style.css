@@ -30,7 +30,7 @@ a
   text-decoration: none;
 }
 
-a:hover
+a:active
 {
   cursor: pointer;
   background-color: #81CACF;
