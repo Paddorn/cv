@@ -25,3 +25,18 @@ h3
 {
   color: #1687A7;
 }
+a
+{
+  text-decoration: none;
+}
+
+a:hover
+{
+  cursor: pointer;
+  background-color: #81CACF;
+  text-decoration: none;
+  padding: 2px;
+  margin: 5px;
+  font-size: 1.15em;
+  color: white;
+}
